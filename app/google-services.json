@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372931003724",
+    "project_id": "chat-kubanox",
+    "storage_bucket": "chat-kubanox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372931003724:android:6d8c72207b4044533efbe9",
+        "android_client_info": {
+          "package_name": "com.kubanox.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372931003724-aijvukjmrqt9mc6mvprfnec3ihisae8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Nlh7l32G6SYHdnQG82OaoCTzDNKPkIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372931003724-aijvukjmrqt9mc6mvprfnec3ihisae8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
