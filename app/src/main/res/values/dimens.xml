@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_dimension">16dp</dimen>
+    <dimen name="big_dimension">36dp</dimen>
+    <dimen name="min_margin">5dp</dimen>
+    <dimen name="icon_size">36dp</dimen>
+    <dimen name="big_text">24sp</dimen>
+    <dimen name="medium_text">16sp</dimen>
+</resources>

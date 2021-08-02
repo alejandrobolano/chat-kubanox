@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="jonquil">#f0c808</color>
+    <color name="maximum_red">#dd1c1a</color>
+    <color name="papaya">#fff1d0</color>
+    <color name="sunglow">#fcca46</color>
+    <color name="olivine">#a1c181</color>
 </resources>

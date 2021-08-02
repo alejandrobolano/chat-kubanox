@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Chat Kubanox</string>
+    <string name="email_field">Email</string>
+    <string name="name_field">Name</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="not_account">Do not have an account?</string>
 </resources>
